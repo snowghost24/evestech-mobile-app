@@ -1,0 +1,19 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "evestech",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart",
+      "flutterMode": "debug",
+      "args": [
+        "--dart-define=MYECIO_GOOGLE_CLIENT_ID=158164433865-4jjhs6au5bgv2a628eb22t4kgbpiudbs.apps.googleusercontent.com",
+        "--dart-define=TOKEN=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Y2ZkMTM0YWMxNzRiNTAwMDE3N2Q0M2YiLCJmbmFtZSI6Ik1pY2hhZWwiLCJsbmFtZSI6IlNjb3R0IiwiZW1haWxzIjpbInRlc3QrbXNjb3R0QGdldGVjaW8uY29tIiwidGVzdCtxYXdvbGZAZ2V0ZWNpby5jb20iXSwicGhvbmUiOiI1NTU2NDM3ODYwIiwiaWF0IjoxNjcyODUyNjYwLCJleHAiOjE2ODg0MDQ2NjB9.opGty4GTOMrO8jOi4j_-eGza9jB-ty0ut78UJnBCIQkGSoPDBtnVieTWOF56t9Pz8VC0MvyjbYyZL-dkCWOuxq9kfhgczg2JmhU3hPaXNH-Tj5bypFRhErxJBE_J-l4YK27WVy67HN4CM50DMx7StSlLPcZoTlkSTNMZocARZt_UDj3SvKYDTHewWxhRRkIAUTeEUFyWeO5u7wWPjsW_sZH_RmD2UcE08weibXD9rBom9MpLc3NQzhis0XCOfkGsXJKdTFvXzJNjZKEcC6zLiiNF2jR766nNauMr_LYjXpm45a3LJa2mgIb7ATpkEG3kSKNh6K1RvR5RepeyThtNUjrRRd_8VfRYvACvGoUsv2W0hBnSH2sO-eMqVK-sLvCobJMslZkBL2AR534Up_0KUvn8s_TObBOFiCHiOTfqJFTE_DRND3yRcNijXmQxyHwZwKW-EDhhYj0x0jN4aL8arncTBLBdqc6qgMJcDM-83iB-ZmIrWXywg3KXWfsiD8AUsNS5K6w3D8ekoTmmKMRS4Fd1Vr0jewCP1hcibpHyHgUD0hIP6Mji5bHlpGASR8bHOmS1YtOHoUcLF9K_p5ZMDnoWsLsmVUldU7s49Th8HmEWsOBC4YALQl9O6oZzdBBMKZ2-8_Mp9Yc2ZDeBX5Fgk-_ovP9A-Lb-rb2aNigPNk0"
+      ]
+    }
+  ]
+}
